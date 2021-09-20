@@ -1,0 +1,11 @@
+.country{
+    background-color: gray;
+    border: 2px solid rgb(235, 92, 10);
+    padding: 5px;
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 25px;
+}
+.country img {
+    width: 250px;
+}
